@@ -29,8 +29,12 @@ export default {
 <style scope>
 
 .logo {
+  font-family: Arial, Helvetica, sans-serif;
   display: flex;
   align-items: center;
+}
+a{
+  text-decoration: none;
 }
 h1 {
   text-transform: uppercase;

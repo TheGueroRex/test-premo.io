@@ -180,8 +180,10 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
+
 .questions {
+  font-family: Arial, Helvetica, sans-serif;
   margin: 0 auto;
   width: 70%;
   height: auto;

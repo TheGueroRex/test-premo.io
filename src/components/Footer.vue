@@ -202,6 +202,7 @@ export default {
 
 <style scoped>
 footer {
+  font-family: Arial, Helvetica, sans-serif;
   background: #ffffff;
   width: 100%;
   height: auto;
